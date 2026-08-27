@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis | SQL + Power BI
+# 📊 Superstore Sales Analysis | SQL + Power BI + Excel
 
 > **End-to-end Data Analytics & Business Intelligence project** transforming 9,994 Superstore sales records into actionable business insights using **MySQL, SQL, Excel, and Power BI**.
 
